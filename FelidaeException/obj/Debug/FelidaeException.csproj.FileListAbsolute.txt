@@ -1,0 +1,10 @@
+C:\Users\MAX\RiderProjects\FelidaeException\bin\Debug\FelidaeException.exe.config
+C:\Users\MAX\RiderProjects\FelidaeException\bin\Debug\FelidaeException.exe
+C:\Users\MAX\RiderProjects\FelidaeException\bin\Debug\FelidaeException.pdb
+C:\Users\MAX\RiderProjects\FelidaeException\obj\Debug\FelidaeException.csprojAssemblyReference.cache
+C:\Users\MAX\RiderProjects\FelidaeException\obj\Debug\FelidaeException.Properties.Resources.resources
+C:\Users\MAX\RiderProjects\FelidaeException\obj\Debug\FelidaeException.csproj.GenerateResource.cache
+C:\Users\MAX\RiderProjects\FelidaeException\obj\Debug\FelidaeException.csproj.CoreCompileInputs.cache
+C:\Users\MAX\RiderProjects\FelidaeException\obj\Debug\FelidaeException.exe
+C:\Users\MAX\RiderProjects\FelidaeException\obj\Debug\FelidaeException.pdb
+C:\Users\MAX\RiderProjects\FelidaeException\obj\Debug\FelidaeException.Form1.resources
